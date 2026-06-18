@@ -9,4 +9,4 @@ This document is a system-agnostic reference. It covers the core rules and mecha
 ![Opend6_logo](/Assets/Opend6_logo.webp)
 
 ---
-[Creative Commons License](/LICENSE) | [SRD File](/Core/OpenD6_System_Reference.md)
+[Creative Commons License](/LICENSE) | [SRD File](/Core/OpenD6_System_Reference.md)| [Settings: Fantasy](/Settings/Fantasy.md)|
