@@ -1,4 +1,4 @@
-# D6 Fantasy Creatures — Mechanics Reference
+# D6 Fantasy — Mechanics Reference
 
 > A supplement to the **OpenD6 / D6 Fantasy** system.  
 > Based on *D6 Fantasy Creatures* (West End Games, WEG 51015e, v1.1, © 2005 Purgatory Publishing Inc.).  
