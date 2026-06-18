@@ -8,54 +8,25 @@
 
 ## Table of Contents
 
-1. [Core Mechanic](#core-mechanic)
-2. [Character Creation](#character-creation)
-3. [Attributes](#attributes)
-4. [Skills](#skills)
-5. [Advantages](#advantages)
-6. [Disadvantages](#disadvantages)
-7. [Special Abilities](#special-abilities)
-8. [Non-Human Races](#non-human-races)
-9. [Improving Characters](#improving-characters)
-10. [Game Basics — Rolls & Difficulties](#game-basics--rolls--difficulties)
-11. [Combat](#combat)
-12. [Damage & Healing](#damage--healing)
-13. [Magic](#magic)
-14. [Miracles](#miracles)
-15. [Equipment](#equipment)
+1. [Character Creation](#character-creation)
+2. [Attributes](#attributes)
+3. [Skills](#skills)
+4. [Advantages](#advantages)
+5. [Disadvantages](#disadvantages)
+6. [Special Abilities](#special-abilities)
+7. [Non-Human Races](#non-human-races)
+8. [Improving Characters](#improving-characters)
+9. [Game Basics — Rolls & Difficulties](#game-basics--rolls--difficulties)
+10. [Combat](#combat)
+11. [Damage & Healing](#damage--healing)
+12. [Magic](#magic)
+13. [Miracles](#miracles)
+14. [Equipment](#equipment)
     - [Gear](#adventuring-gear)
     - [Armor & Shields](#armor--shields)
     - [Weapons](#weapons)
     - [Vehicles](#vehicles)
-16. [Quick Reference](#quick-reference)
-
----
-
-## Core Mechanic
-
-Roll a number of six-sided dice equal to your attribute or skill die code. Add the results. If your total **equals or exceeds** the difficulty number, you succeed.
-
-**Die Codes** are written as `#D` (number of dice) plus optional pips: `3D+1` = roll 3 dice, add 1.  
-Each die = 3 pips: `1D = 1D+0`, `1D+1`, `1D+2`, `2D = 1D+3`.
-
-### The Wild Die
-
-One die in every roll must be a different color — this is the **Wild Die**.
-
-| Wild Die Result | Effect |
-|-----------------|--------|
-| **6** | Critical Success — add 6, roll Wild Die again; keep adding & rolling as long as 6s appear |
-| **2–5** | Normal — add to total as usual |
-| **1** (first roll only) | Critical Failure — remove the 1 **and** your highest die; add the rest |
-
-### Special Points
-
-| Point | How to Spend | Effect |
-|-------|-------------|--------|
-| **Character Point** | After rolling (or before) | Roll one extra Wild Die; add best result |
-| **Fate Point** | Before rolling | Double your dice for one action this round |
-
-Characters start with **5 Character Points** and **1 Fate Point**. Points are earned by completing adventures and roleplaying well. Spent Fate Points may be recovered if used in a heroic or climactic moment.
+15. [Quick Reference](#quick-reference)
 
 ---
 
