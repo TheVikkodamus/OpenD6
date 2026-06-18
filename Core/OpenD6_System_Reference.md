@@ -6,16 +6,16 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Core Concepts](#core-concepts)
-3. [Characters](#characters)
+
+1. [Core Concepts](#core-concepts)
+2. [Characters](#characters)
    - [Attributes](#attributes)
    - [Skills](#skills)
    - [Specializations](#specializations)
    - [Advanced Skills](#advanced-skills)
    - [Starting Characters](#starting-characters)
    - [Character Options (Advantages, Disadvantages, Special Abilities)](#character-options)
-4. [The Dice System](#the-dice-system)
+3. [The Dice System](#the-dice-system)
    - [Die Codes](#die-codes)
    - [The Wild Die](#the-wild-die)
    - [Difficulty Numbers](#difficulty-numbers)
@@ -23,7 +23,7 @@
    - [Modifiers](#modifiers)
    - [Untrained Skill Use](#untrained-skill-use)
    - [Die Code Simplification](#die-code-simplification)
-5. [Scenes and Rounds](#scenes-and-rounds)
+4. [Scenes and Rounds](#scenes-and-rounds)
    - [Scenes](#scenes)
    - [Rounds](#rounds)
    - [Initiative](#initiative)
@@ -32,11 +32,11 @@
    - [Reaction Skills](#reaction-skills)
    - [Free Actions](#free-actions)
    - [Combined Actions](#combined-actions)
-6. [Task Resolution](#task-resolution)
+5. [Task Resolution](#task-resolution)
    - [Preparing](#preparing)
    - [Rushing](#rushing)
    - [Multiple-Roll Tasks](#multiple-roll-tasks)
-7. [Combat](#combat)
+6. [Combat](#combat)
    - [Ranged Combat](#ranged-combat)
    - [Melee Combat](#melee-combat)
    - [Reaction Skills in Combat](#reaction-skills-in-combat)
@@ -46,36 +46,26 @@
    - [Surprise](#surprise)
    - [Combat Modifiers](#combat-modifiers)
    - [Combat Options](#combat-options)
-8. [Damage](#damage)
+7. [Damage](#damage)
    - [Character Damage Chart](#character-damage-chart)
    - [Wound Levels](#wound-levels)
    - [Body Points (Optional)](#body-points-optional)
    - [Stun Damage](#stun-damage)
    - [Damage Options](#damage-options)
-9. [Healing](#healing)
+8. [Healing](#healing)
    - [Natural Healing](#natural-healing)
    - [Medpacs / First Aid](#medpacs--first-aid)
    - [Advanced Medical Care](#advanced-medical-care)
-10. [Character Points and Force/Fate Points](#character-points-and-forcefate-points)
+9. [Character Points and Force/Fate Points](#character-points-and-forcefate-points)
     - [Character Points](#character-points)
     - [Force Points / Fate Points](#force-points--fate-points)
     - [Dark Side Points (Optional)](#dark-side-points-optional)
-11. [Character Advancement](#character-advancement)
+10. [Character Advancement](#character-advancement)
     - [Improving Skills](#improving-skills)
     - [Learning New Skills](#learning-new-skills)
     - [Improving Attributes](#improving-attributes)
-12. [Complications](#complications)
-13. [Gamemaster Tips](#gamemaster-tips)
-
----
-
-## Introduction
-
-OpenD6 is a fast, flexible, and cinematic tabletop roleplaying game system built on a simple core mechanic: **roll a pool of six-sided dice and add them up**. The system was originally developed by West End Games for their *Star Wars* roleplaying line and later released as an open system under the name OpenD6.
-
-The system is designed to keep the action moving. Dice pools are straightforward, difficulty numbers are easy to estimate, and the game rewards clever roleplay alongside mechanical skill. Characters feel competent from the start and grow meaningfully over time.
-
-This document is a system-agnostic reference. It covers the core rules and mechanics common across OpenD6 titles. Setting-specific content (species, equipment, Force powers, etc.) belongs in separate setting documents.
+11. [Complications](#complications)
+12. [Gamemaster Tips](#gamemaster-tips)
 
 ---
 
