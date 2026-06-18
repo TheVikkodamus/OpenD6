@@ -1016,4 +1016,29 @@ The rules and mechanics in this document were compiled and adapted from the foll
    - Published under the West End Games / OpenD6 product line.
    - © Purgatory Publishing Inc. West End Games, WEG, and D6 System are trademarks and properties of Purgatory Publishing Inc.
 
-> **Note:** The OpenD6 system mechanics are open and no copyright is asserted on the rules, system text, or game mechanics themselves. This document is a fan reference compiled for community use. Star Wars and all related properties are trademarks of Lucasfilm Ltd. and The Walt Disney Corporation. No challenge to any trademark or copyright is intended.
+4. **The D6 System** *(WEG 51005)*
+   - Design & Development: George Strayton
+   - Editing: Greg Farshtey
+   - Cover Design & Graphics: Tom ONeill
+   - Cover Art: Ron Kulp
+   - Publisher: West End Games / Purgatory Publishing Inc.
+   - First Published: 1996
+   - ISBN: 0-87431-372-4
+   - © 1996 West End Games. West End Games, WEG, and D6 System are trademarks and properties of Purgatory Publishing Inc.
+   - This volume includes the **Open Game License v1.0a** (Copyright 2000, Wizards of the Coast, Inc.), under which the D6 System game mechanics are designated as Open Game Content.
+
+---
+
+### Open Game License Notice
+
+This document is produced under the terms of the **Open Game License Version 1.0a** (Copyright 2000, Wizards of the Coast, Inc.).
+
+**Open Game Content:** All game mechanics and materials compiled in this reference document are designated Open Game Content under the OGL, as originally designated in *The D6 System* (WEG 51005).
+
+**Product Identity:** The D6 System name and trademark, the D6 logo, OpenD6 and related logos, and all cover and interior art from the source materials are Product Identity and properties of Purgatory Publishing Inc. These are not reproduced here. Use of the D6 System trademark is subject to the D6 System/OpenD6 System Trademark License (D6STL).
+
+**COPYRIGHT NOTICE**
+- Open Game License v1.0a — Copyright 2000, Wizards of the Coast, Inc.
+- The D6 System (WEG 51005) — Copyright 1996, West End Games
+
+> **Note:** Star Wars and all related properties are trademarks of Lucasfilm Ltd. and The Walt Disney Corporation. No challenge to any trademark or copyright is intended. This document is a fan reference compiled for community use.
