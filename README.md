@@ -1,6 +1,6 @@
 # OpenD6
 
-![Opend6_logo](https://opend6.fandom.com/wiki/OGL?file=Opend6.png)
+![Opend6_logo](/Assets/Opend6_logo.webp)
 
 OpenD6 is a fast, flexible, and cinematic tabletop roleplaying game system built on a simple core mechanic: roll a pool of six-sided dice and add them up. The system was originally developed by West End Games for their Star Wars roleplaying line and later released as an open system under the name OpenD6.
 
