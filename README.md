@@ -7,4 +7,4 @@ The system is designed to keep the action moving. Dice pools are straightforward
 This document is a system-agnostic reference. It covers the core rules and mechanics common across OpenD6 titles. Setting-specific content (species, equipment, Force powers, etc.) belongs in separate setting documents.
 
 ---
-[Creative Commons License](/LICENSE) | 
+[Creative Commons License](/LICENSE) | [SRD File](/Core/OpenD6_System_Reference.md)
